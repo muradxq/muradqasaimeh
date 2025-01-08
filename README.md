@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+ Research Interests — AI Compilers, AI Hardware Architectures and Parallel Programming.
+ 
 <!--
 **muradqasaimeh/muradqasaimeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
