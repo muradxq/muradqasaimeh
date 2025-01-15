@@ -18,7 +18,7 @@ Eduation:
 
 Selected Publications:
 
-- Comparing Energy Efficiency of CPU, GPU and FPGA Implementations for Vision Kernels [1]([https://pages.github.com/](https://ieeexplore.ieee.org/abstract/document/8782524).
+- Comparing Energy Efficiency of CPU, GPU and FPGA Implementations for Vision Kernels [1](https://ieeexplore.ieee.org/abstract/document/8782524).
 - An efficient hardware architecture for sparse convolution using linear feedback shift registers [2](https://ieeexplore.ieee.org/abstract/document/9516613).
 - Benchmarking vision kernels and neural network inference accelerators on embedded platforms [3](https://www.sciencedirect.com/science/article/abs/pii/S1383762120301697).
 - A runtime configurable hardware architecture for computing histogram-based feature descriptors [4](https://ieeexplore.ieee.org/abstract/document/8533521).
