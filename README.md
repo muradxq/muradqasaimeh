@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-## Research Interests
-- AI Compilers, AI Hardware Architectures and Parallel Programming.
+Research Interests AI Compilers, AI Hardware Architectures and Parallel Programming.
 
-## Education
-
+Education
 - **Iowa State University** – *Ames, Iowa*  
   **PhD in Electrical and Computer Engineering**, GPA: 3.85 *(2015 – 2020)*  
   - Thesis: *Efficient Processing of Computer Vision and Deep Learning on FPGAs*
@@ -19,7 +17,6 @@
 
 
 Selected Publications:
-
 - Comparing Energy Efficiency of CPU, GPU and FPGA Implementations for Vision Kernels [1](https://ieeexplore.ieee.org/abstract/document/8782524).
 - An efficient hardware architecture for sparse convolution using linear feedback shift registers [2](https://ieeexplore.ieee.org/abstract/document/9516613).
 - Benchmarking vision kernels and neural network inference accelerators on embedded platforms [3](https://www.sciencedirect.com/science/article/abs/pii/S1383762120301697).
