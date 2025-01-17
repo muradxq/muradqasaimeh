@@ -24,18 +24,19 @@ Selected Publications:
 - A runtime configurable hardware architecture for computing histogram-based feature descriptors [4](https://ieeexplore.ieee.org/abstract/document/8533521).
 - A modified sliding window architecture for efficient bram resource utilization [5](https://ieeexplore.ieee.org/abstract/document/7965032).
 
-Eduation:
-- Iowa State University Ames, Iowa
- - PhD in Electrical and Computer Engineering, GPA: 3.85 2015 – 2020
- - Thesis: Efficient Processing of Computer Vision and Deep Learning on FPGAs
+## Education
 
-- American University of Sharjah Sharjah, UAE
- - Master in Electrical and Computer Engineering, GPA: 3.82 2012 – 2014
- - Thesis: An FPGA-based Parallel Hardware Architecture for Real-time Image Classification
+- **Iowa State University** – *Ames, Iowa*  
+  **PhD in Electrical and Computer Engineering**, GPA: 3.85 *(2015 – 2020)*  
+  - Thesis: *Efficient Processing of Computer Vision and Deep Learning on FPGAs*
 
-- Jordan University of Science and Technology Irbid, Jordan
- - Bachelor of Science in Computer Engineering, GPA: 85.7/100 2006 – 2012
- - Senior Design Project: Indoor Mobile Robot Localization and Navigation
+- **American University of Sharjah** – *Sharjah, UAE*  
+  **Master in Electrical and Computer Engineering**, GPA: 3.82 *(2012 – 2014)*  
+  - Thesis: *An FPGA-based Parallel Hardware Architecture for Real-time Image Classification*
+
+- **Jordan University of Science and Technology** – *Irbid, Jordan*  
+  **Bachelor of Science in Computer Engineering**, GPA: 85.7/100 *(2006 – 2012)*  
+  - Senior Design Project: *Indoor Mobile Robot Localization and Navigation*
  
  <!--
  ![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muradqasaimeh&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
