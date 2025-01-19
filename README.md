@@ -23,7 +23,29 @@ Selected Publications:
 - A runtime configurable hardware architecture for computing histogram-based feature descriptors [4](https://ieeexplore.ieee.org/abstract/document/8533521).
 - A modified sliding window architecture for efficient bram resource utilization [5](https://ieeexplore.ieee.org/abstract/document/7965032).
 
-
+Selected Projects
+- Structured Pruning for Deep Neural Networks (DNNs):
+  - Implemented magnitude-based structured weight pruning method to improve the performance of its hardware
+  - implementation, by keeping number of NNZ values per channel fixed to help load balancing. (Python, Tensorflow).
+- CUDA Implementation of Sparse DNNs:
+  - Implemented a high-performance CUDA implementation of structurly sparse DNN and compared its performance with
+  - NVIDIA libraries for dense and sparse DNNs: (cuDNN, cuBLAS and cuSPARSE). (C++, CUDA).
+- Benchmarking Vision Kernels and Neural Network Inference Accelerators on Embedded Platforms [1]:
+  - Conducted comprehensive benchmarks of accuracy, run-time, and energy efficiency of a wide range of vision kernels and neural networks on multiple embedded platforms: ARM57 CPU, Nvidia Jetson TX2 GPU and Xilinx ZCU102 FPGA.
+(xFOpenCV, OpenCV, VisionWorks)
+• Modified Sliding Window Architecture for Efficient BRAM Resource Utilization [2]:
+Implemented a new sliding window architecture that utilizes less on-chip memory resources while maintaining
+performance as compared to the traditional method. (Xilinx, FPGA, VHDL)
+• A Runtime Configurable Hardware Architecture for Computing Histogram-based Feature Descriptors [3]:
+Implemented software configurable hardware architecture capable of computing different types of histogram-based
+feature descriptors without the need for re-synthesizing the hardware. (FPGA, VHDL)
+• A Vision-Based Solution for tracking Motor Grader’s Blade: (Funded by JOHN DEERE):
+Implemented hardware accelerator to detect and track the position of motor grader’s blade in world coordinate using
+image processing algorithms running on ARM processor and FPGA fabric. The accelerator reached 60fps for 1600×1200
+resolution with a blade localization error less than 2 cm. (VHDL, OpenCV, C++, Python)
+• FPGA-based real time Object Detection and Recognition System [4]:
+Designed parallel hardware architecture for real time object detection and recognition system, using SIFT and SVM.
+(Verilog, Matlab).
  
  <!--
  ![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muradqasaimeh&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
