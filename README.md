@@ -32,11 +32,7 @@ Selected Projects
   - NVIDIA libraries for dense and sparse DNNs: (cuDNN, cuBLAS and cuSPARSE). (C++, CUDA).
 - Benchmarking Vision Kernels and Neural Network Inference Accelerators on Embedded Platforms [1]:
   - Conducted comprehensive benchmarks of accuracy, run-time, and energy efficiency of a wide range of vision kernels and neural networks on multiple embedded platforms: ARM57 CPU, Nvidia Jetson TX2 GPU and Xilinx ZCU102 FPGA. (xFOpenCV, OpenCV, VisionWorks)
-- Modified Sliding Window Architecture for Efficient BRAM Resource Utilization [2]:
-  - Implemented a new sliding window architecture that utilizes less on-chip memory resources while maintaining performance as compared to the traditional method. (Xilinx, FPGA, VHDL)
-- A Runtime Configurable Hardware Architecture for Computing Histogram-based Feature Descriptors [3]:
--   Implemented software configurable hardware architecture capable of computing different types of histogram-based feature descriptors without the need for re-synthesizing the hardware. (FPGA, VHDL)
- 
+
  
  <!--
  ![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muradqasaimeh&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
