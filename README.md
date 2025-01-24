@@ -2,7 +2,7 @@
 
 Research Interests AI Compilers, AI Hardware Architectures and Parallel Programming.
 
-Education
+### Education
 - Iowa State University – Ames, Iowa  
   PhD in Electrical and Computer Engineering, GPA: 3.85 *(2015 – 2020)*  
   Thesis: *Efficient Processing of Computer Vision and Deep Learning on FPGAs*
@@ -16,14 +16,14 @@ Education
   Senior Design Project: *Indoor Mobile Robot Localization and Navigation*
 
 
-Selected Publications:
+### Selected Publications:
 1. Comparing Energy Efficiency of CPU, GPU and FPGA Implementations for Vision Kernels [1](https://ieeexplore.ieee.org/abstract/document/8782524).
 2. An efficient hardware architecture for sparse convolution using linear feedback shift registers [2](https://ieeexplore.ieee.org/abstract/document/9516613).
 3. Benchmarking vision kernels and neural network inference accelerators on embedded platforms [3](https://www.sciencedirect.com/science/article/abs/pii/S1383762120301697).
 4. A runtime configurable hardware architecture for computing histogram-based feature descriptors [4](https://ieeexplore.ieee.org/abstract/document/8533521).
 5. A modified sliding window architecture for efficient bram resource utilization [5](https://ieeexplore.ieee.org/abstract/document/7965032).
 
-Selected Projects
+### Selected Projects
 - Structured Pruning for Deep Neural Networks (DNNs):
   - Implemented magnitude-based structured weight pruning method to improve the performance of its hardware
   - implementation, by keeping number of NNZ values per channel fixed to help load balancing. (Python, Tensorflow).
